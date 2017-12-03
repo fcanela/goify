@@ -1,0 +1,25 @@
+{
+  "name": "goify",
+  "version": "0.0.1",
+  "description": "Transform promises into go-like promises",
+  "main": "goify.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcanela/goify.git"
+  },
+  "author": "Francisco Canela <fcanela.dev+npm@gmail.com> (fcanela)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fcanela/goify/issues"
+  },
+  "homepage": "https://github.com/fcanela/goify#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.12.1",
+    "mocha": "^4.0.1"
+  }
+}
