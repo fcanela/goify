@@ -93,7 +93,7 @@ Yes, I know. Unfortunately I have limited time resources. Feel free to open a is
 [ci-url]: https://circleci.com/gh/fcanela/goify
 [cq-image]: https://api.codeclimate.com/v1/badges/55d9745945d252235af5/maintainability
 [cq-url]: https://codeclimate.com/github/fcanela/goify/maintainability
-[vuln-image]: https://snyk.io/test/github/fcanela/goify/badge.svg)
+[vuln-image]: https://snyk.io/test/github/fcanela/goify/badge.svg
 [vuln-url]: https://snyk.io/test/github/fcanela/goify
 [deps-image]: https://david-dm.org/fcanela/goify.svg
 [deps-url]: https://david-dm.org/fcanela/goify
