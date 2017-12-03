@@ -3,7 +3,7 @@
 [![npm version][npmsemver-image]][npmsemver-url]
 [![Build Status][ci-image]][ci-url]
 [![Code Climate][cq-image]][cq-url]
-[![Code Climate][cc-image]][cc-url]
+[![Known Vulnerabilities][vuln-image]][vuln-url]
 [![Dependencies][deps-image]][deps-url]
 [![Dev Dependencies][dev-deps-image]][dev-deps-url]
 [![License][license-image]][license-url]
@@ -58,7 +58,7 @@ if (someJobError) {
 }
 ```
 
-Both source code and tests are minimal and can give you a good idea about how to use goify.
+Both source code and tests are small and can give you a good idea about how to use goify.
 
 ## <a name="contributing"></a> Contributing and help
 
@@ -93,8 +93,8 @@ Yes, I know. Unfortunately I have limited time resources. Feel free to open a is
 [ci-url]: https://circleci.com/gh/fcanela/goify
 [cq-image]: https://api.codeclimate.com/v1/badges/55d9745945d252235af5/maintainability
 [cq-url]: https://codeclimate.com/github/fcanela/goify/maintainability
-[cc-image]: https://api.codeclimate.com/v1/badges/55d9745945d252235af5/test_coverage
-[cc-url]: https://codeclimate.com/github/fcanela/goify/test_coverage
+[vuln-image]: https://snyk.io/test/github/fcanela/goify/badge.svg
+[vuln-url]: https://snyk.io/test/github/fcanela/goify
 [deps-image]: https://david-dm.org/fcanela/goify.svg
 [deps-url]: https://david-dm.org/fcanela/goify
 [dev-deps-image]: https://david-dm.org/fcanela/goify/dev-status.svg
